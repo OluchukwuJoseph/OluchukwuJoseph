@@ -1,12 +1,14 @@
+## A little bit about me
 - 🔥 Hi, I am Oluchukwu Joseph (<a href="https://github.com/OluchukwuJoseph/">@OluchukwuJoseph</a>).
 - ✨ I’m interested in Web Development and Backend Development.
 - 👨 I’m currently learning Software Engineering with ALX Software Engineering Cohort 20.
 - 🌹 I am looking to collaborate with you on projects.
 - 👨 <strong>Building: </strong>
     - <a href="https://safe-compile.github.io/"> Safe Compile</a>
-<strong><p align="center">Skills</p></strong>
+
+## Skills
 <hr>
-<div align="center">
+<div align="left">
   <!-- img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>-->
@@ -18,8 +20,9 @@
 <hr/>
 
 <br>
-<strong><p align="center">Connect With Me 🤍 </p></strong>
-<p align="center">
+
+## Connect with me
+<p align="left">
     <a href="https://www.twitter.com/evjoseph_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
     <a href="https://www.github.com/OluchukwuJoseph" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/oluchukwu-joseph?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
