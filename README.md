@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?OluchukwuJoseph&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=OluchukwuJoseph&style=flat-square&color=blueviolet)
 # Hi there, I'm Joseph Oluchukwu! 👋
 ## 💫 About Me:
 I am a Software Engineer trying to build the next Facebook 🚀.
