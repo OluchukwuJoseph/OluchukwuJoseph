@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=OluchukwuJoseph&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://hit.yhype.me/github/profile?account_id=140156951)
 # Hi there, I'm Joseph Oluchukwu! 👋
 ## 💫 About Me:
 I am a Software Engineer trying to build the next Facebook 🚀.
