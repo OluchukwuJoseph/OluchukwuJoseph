@@ -1,4 +1,4 @@
-![](https://hit.yhype.me/github/profile?account_id=140156951)
+![](https://komarev.com/ghpvc/?OluchukwuJoseph&style=flat-square&color=blueviolet)
 # Hi there, I'm Joseph Oluchukwu! 👋
 ## 💫 About Me:
 I am a Software Engineer trying to build the next Facebook 🚀.
